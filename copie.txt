@@ -1,0 +1,4 @@
+Nom: Ibrahim -> age: 26
+Nom: Lucas -> age: 36
+Nom: Ahmed -> age: 40
+Nom: Philip -> age: 18
